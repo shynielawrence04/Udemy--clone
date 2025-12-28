@@ -58,7 +58,7 @@ To run the project locally:
 
 Clone the repository
 
-git clone https://github.com/your-username/udemy-clone.git
+git clone (https://shynielawrence04.github.io/Udemy--clone/)
 
 
 Open the project folder
